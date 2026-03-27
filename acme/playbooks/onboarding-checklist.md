@@ -4,6 +4,7 @@
 - Confirm signed offer and start date.
 - Provision accounts and equipment.
 - Prepare welcome packet and schedule.
+- Be extra nice and super sweet
 
 ## Week 1
 - Provide workspace tour and introductions.
